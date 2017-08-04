@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: *********
+description: 你的指尖有改变世界的力量
 keywords: poluoluo
 comments: true
 menu: 关于
