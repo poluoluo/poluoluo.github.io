@@ -8,9 +8,9 @@ menu: 关于
 permalink: /about/
 ---
 
-哈哈哈哈哈哈哈
+你的指尖有改变世界的力量
 
-## 联系
+## Contact Me
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
