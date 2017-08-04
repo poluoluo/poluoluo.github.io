@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: 破洛洛
-organization:
+organization: poluoluo
 organization_url:
 github_username: mzlogin
 location: Yantai, China
@@ -74,7 +74,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: 
+repository:
 
 # ---------------- #
 #      Comments    #
