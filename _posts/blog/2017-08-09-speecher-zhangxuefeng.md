@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 知乎：怎么评价张雪峰在《演说家》的演讲以及那句“所以你不是世界企业500强!”？
+title: 怎么评价张雪峰在《演说家》的演讲以及那句“所以你不是世界企业500强!”？
 categories: Blog
 description: 演说家
 keywords: 张雪峰
