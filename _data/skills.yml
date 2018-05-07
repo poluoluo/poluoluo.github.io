@@ -1,15 +1,15 @@
-- name: Software Engineer Keywords
+- name: Software Engineer 
   keywords:
       - Java
       - C++
       - Python
       - Csharp
 
-- name: Mobile Developer Keywords
+- name: Mobile Developer 
   keywords:
       - Android
 
-- name: Windows Developer Keywords
+- name: Windows Developer 
   keywords:
       - DuiLib
       - WTL
